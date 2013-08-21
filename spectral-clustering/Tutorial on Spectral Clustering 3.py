@@ -94,12 +94,3 @@ pl.show()
 
 pl.figure()
 pl.scatter(Y[:, 0], Y[:, 1], c=Y[:,2], cmap=pl.cm.jet)
-
-# <codecell>
-
-a = np.random.random((4,4))
-print a
-
-# <codecell>
-
-
