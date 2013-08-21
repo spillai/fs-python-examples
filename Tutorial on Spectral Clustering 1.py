@@ -129,6 +129,3 @@ for i_dataset, dataset in enumerate(datasets):
 pl.show()
 
 # <codecell>
-
-e
-
